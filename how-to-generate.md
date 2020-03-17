@@ -23,7 +23,7 @@ thumbnail: https://huggingface.co/blog/assets/02_how-to-generate/thumbnail.png
     </a>
 </div>
 
-<a href="https://colab.research.google.com/github/patrickvonplaten/blog/blob/add_language_generation_tutorial/02_how_to_generate.ipynb" target="_parent">
+<a target="_blank" href="https://colab.research.google.com/github/huggingface/blog/blob/master/notebooks/02_how-to-generate.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
